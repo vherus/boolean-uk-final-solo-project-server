@@ -1,0 +1,23 @@
+{
+  "name": "boolean-uk-final-solo-project-server",
+  "version": "1.0.0",
+  "description": "Upstream for final solo projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vherus/boolean-uk-final-solo-project-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vherus/boolean-uk-final-solo-project-server/issues"
+  },
+  "homepage": "https://github.com/vherus/boolean-uk-final-solo-project-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
